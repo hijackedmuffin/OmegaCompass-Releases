@@ -23,6 +23,28 @@ A `SHA256SUMS.txt` file is included so you can verify your download.
 This build targets Forge, not Fabric or NeoForge. It is a client mod; do not install
 it on a dedicated server.
 
+## 📸 Screenshots
+
+Explore the current **singleplayer Early Access** experience in Minecraft 26.3.
+
+### In-game navigation
+
+![Omega Compass gameplay — compass, waypoint navigation, world information and a held map against an autumn landscape](01_Gameplay_Hero.png)
+
+*Smooth compass navigation and world information while exploring Minecraft with a held map.*
+
+### Customization and waypoints
+
+| Themes & HUD styles | Custom colours |
+| :---: | :---: |
+| ![Omega Compass theme selection dashboard and live gameplay preview](02_Themes_and_Styles.png) | ![Omega Compass custom colour controls and preview](05_Custom_Colours.png) |
+| Choose themes, visual styles and appearance settings. | Fine-tune colours with live previews. |
+
+| Waypoint manager | Waypoints on held maps |
+| :---: | :---: |
+| ![Omega Compass waypoint management interface with saved locations](03_Waypoint_Manager.png) | ![Omega Compass coloured waypoint overlay on a held Filled Map in singleplayer](04_Held_Map_Waypoints.jpg) |
+| Create, organize and manage saved destinations. | View waypoint markers on vanilla Filled Maps in **singleplayer**. |
+
 ## Navigate your world
 
 - Smooth rotating compass HUD with cardinal and diagonal directions.
